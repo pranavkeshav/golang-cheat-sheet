@@ -1,11 +1,7 @@
 # Go Cheat Sheet
 
 # Index
-1. [Basic Syntax](#basic-syntax)
-2. [Operators](#operators)
-    * [Arithmetic](#arithmetic)
-    * [Comparison](#comparison)
-    * [Logical](#logical)
+1. [Basic Syntax](#basic-
     * [Other](#other)
 3. [Declarations](#declarations)
 4. [Functions](#functions)
